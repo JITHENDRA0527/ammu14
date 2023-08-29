@@ -1,1 +1,2 @@
-learnin g DevOps in java home cloud
+learning DevOps in java home cloud
+learning AWS 
